@@ -10,8 +10,8 @@ And after each review is classified into positive, negative and neutral, an [ana
 
 Which benefits can a Sentiment Analysis offer to a restaurant or to another business?
 
-- **Improve Customer Service.** What does your customers really desire? What are their main complaints? And possiby reply to the bad reviews to find out more.
+- **Improve Customer Service.** What do your customers really desire? What are their main complaints? And possiby reply to the bad reviews to find out more.
 
-- **Develop Quality Products.** What do your customers wish your product had? Find out what is the main bottleneck of your product.
+- **Develop Quality Products.** What features do your customers wish your product had? Find out what is the main bottleneck of your product.
 
 - **Improve Media Perceptions.** What's the overall feeling about your product? How do customers behave with your product and the one from your competitors?

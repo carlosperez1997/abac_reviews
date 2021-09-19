@@ -15,3 +15,5 @@ Which benefits can a Sentiment Analysis offer to a restaurant or to another busi
 - **Develop Quality Products.** What features do your customers wish your product had? Find out what is the main bottleneck of your product.
 
 - **Improve Media Perceptions.** What's the overall feeling about your product? How do customers behave with your product and the one from your competitors?
+
+The next possible step to do is to classify negative reviews into topics using another transformer from Hugging Face. As reviews are not classified and labeled, I would propose using a Zero-shot classification model, and let the model decide by context, words, etc. which label would fit better each review. 

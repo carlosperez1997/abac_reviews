@@ -1,6 +1,6 @@
-# ABaC analysis reviews
+# ABaC reviews' analysis 
 
-The goal of this project is to perform a Sentiment Analysis from reviews to the Catalan restaurant [ABaC Restaurant](https://abacbarcelona.com/es/restaurante) from Jordi Cruz (a Spanish famous chef). The reviews are extracted from [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g187497-d1074448-Reviews-ABaC-Barcelona_Catalonia.html) through [Web scraping](/webscraping.ipynb).
+The goal of this project is to perform a Sentiment Analysis to the reviews of the Catalan restaurant [ABaC Restaurant](https://abacbarcelona.com/es/restaurante) from Jordi Cruz (a Spanish famous chef). The reviews are extracted from [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g187497-d1074448-Reviews-ABaC-Barcelona_Catalonia.html) through [Web scraping](/webscraping.ipynb).
 
 As most of the reviews are in Spanish and the pretrained models that will be used are set up in English, next step is to translate the reviews to English. To do so, Systran Translate helps us to perform that task, also using Web Scraping (as they do not have a free API). [Translation function](/translation.ipynb)
 
